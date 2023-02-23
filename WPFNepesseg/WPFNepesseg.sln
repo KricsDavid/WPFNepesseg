@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFNepesseg", "WPFNepesseg\WPFNepesseg.csproj", "{2135513F-08C5-4843-8B63-1D15BC0D2247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2135513F-08C5-4843-8B63-1D15BC0D2247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2135513F-08C5-4843-8B63-1D15BC0D2247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2135513F-08C5-4843-8B63-1D15BC0D2247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2135513F-08C5-4843-8B63-1D15BC0D2247}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B5945B1-E022-423B-9626-40C64E97CDC3}
+	EndGlobalSection
+EndGlobal
